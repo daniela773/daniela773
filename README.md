@@ -6,7 +6,7 @@
 - **Nombre Completo:** Daniela Baquedano Pérez 
 - **Fecha de Nacimiento:** 17 de agosto 2005 
 - **Teléfono:** (+34) 639 97 53 11  
-- **Correo Electrónico:** danielabaquedano@gmail.com   
+- **Correo Electrónico:** danielabaquedanoperez@gmail.com   
 - **LinkedIn:**  
 - **GitHub:** 
 
