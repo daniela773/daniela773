@@ -13,7 +13,7 @@
 ---
 
 ## **Resumen Profesional**
-Ingeniero de software con más de 5 años de experiencia en desarrollo web y diseño de sistemas escalables. Apasionado por la tecnología, el aprendizaje continuo y la resolución de problemas complejos.
+
 
 ---
 
@@ -30,10 +30,9 @@ Ingeniero de software con más de 5 años de experiencia en desarrollo web y dis
 ---
 
 ## **Habilidades**
-- **Lenguajes de Programación:** JavaScript, Python, Java, C++  
+- **Lenguajes de Programación:** Python, Java, C++  
 - **Frameworks:** React, Angular, Django, Flask  
-- **Bases de Datos:** MySQL, PostgreSQL, MongoDB  
-- **Herramientas:** Git, Docker, Kubernetes, Jenkins  
+- **Bases de Datos:** MySQL, PostgreSQL, MongoDB   
 - **Idiomas:** Español (nativo), Inglés (avanzado), Alemán (básico)  
 
 ---
